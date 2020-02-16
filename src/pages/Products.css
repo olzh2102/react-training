@@ -1,0 +1,23 @@
+/* .siimple-list {
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.siimple-list:first-child {
+  margin-top: 20px;
+}
+
+.siimple-list-item {
+  display: flex;
+  justify-content: space-between
+} */
+
+.siimple-content--large {
+    max-width: 1600px;
+    margin: 0 auto
+}
+
+.siimple-card-title {
+  font-size: 13px
+}
